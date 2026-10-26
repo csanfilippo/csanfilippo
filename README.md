@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Calogero 👋
 
-<!--
-**csanfilippo/csanfilippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I enjoy building software, learning new technologies and sharing what I make along the way.
 
-Here are some ideas to get you started:
+## 🛠️ About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on personal and open-source projects
+- 🌱 I'm always learning something new
+- 👯 I'm open to collaborating on interesting projects
+- 💬 Ask me about software development
+
+## 📊 GitHub stats
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csanfilippo&layout=compact&hide_border=true)
+
+## 📫 Get in touch
+
+Feel free to open an issue on one of my repositories or reach out via [GitHub](https://github.com/csanfilippo).
