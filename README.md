@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I enjoy building software, learning new technologi
 
 ## 📊 GitHub stats
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csanfilippo&layout=compact&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csanfilippo&layout=compact&hide_border=true&exclude_repo=csanfilippo.github.io)
 
 ## 📫 Get in touch
 
